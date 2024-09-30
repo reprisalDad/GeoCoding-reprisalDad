@@ -12,7 +12,7 @@ import com.robomech.geocoding.model.ResponseWeather;
 @RestController
 public class Geocoder {
 
-    private static final Object API_KEY ="AIzaSyBhRMoA7yavIA2zLogRIP3_lN8TqZNKC9Y";
+    private static final Object API_KEY ="your API key";
     
         @GetMapping("/getLocation")
         public Response getGeoDetails(@RequestParam(name = "address", required = false) String address){
