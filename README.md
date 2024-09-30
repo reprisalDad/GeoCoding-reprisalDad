@@ -22,12 +22,15 @@ this will give the address of that particular coordinate
 http://localhost:8090/getWeather?address=kanpur
 
 the location is Kanpur
+
 <img width="485" alt="Screenshot 2024-09-30 at 11 45 10 AM" src="https://github.com/user-attachments/assets/fe59421a-e4d7-4c96-8be0-6b096cfb6778">
 
 the location is Lucknow
+
 <img width="485" alt="Screenshot 2024-09-30 at 11 45 35 AM" src="https://github.com/user-attachments/assets/a5fad8a0-b546-4abf-8290-ee5ec9b677c1">
 
 the location is Chennai
+
 <img width="485" alt="Screenshot 2024-09-30 at 11 45 44 AM" src="https://github.com/user-attachments/assets/e58dc4b3-1071-46ef-8a06-aca9bf9a5d6d">
 
 
