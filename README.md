@@ -36,7 +36,7 @@ the location is Chennai
 
 Contact: Ayush Srivastava - www.linkedin.com/in/ayush-srivastava-521966217 - ayushsrivastavaoffice123@gmail.com
 
-Project Link: https://github.com/reprisalDad/WeatherMicroservice-reprisalDad
+Project Link: https://github.com/reprisalDad/GeoCoding-reprisalDad
 
 
 
