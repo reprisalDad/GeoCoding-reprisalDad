@@ -34,7 +34,7 @@ the location is Chennai
 <img width="485" alt="Screenshot 2024-09-30 at 11 45 44 AM" src="https://github.com/user-attachments/assets/e58dc4b3-1071-46ef-8a06-aca9bf9a5d6d">
 
 
-contact: Ayush Srivastava - www.linkedin.com/in/ayush-srivastava-521966217 - ayushsrivastavaoffice123@gmail.com
+Contact: Ayush Srivastava - www.linkedin.com/in/ayush-srivastava-521966217 - ayushsrivastavaoffice123@gmail.com
 
 Project Link: https://github.com/reprisalDad/WeatherMicroservice-reprisalDad
 
